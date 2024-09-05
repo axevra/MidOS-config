@@ -208,9 +208,11 @@ client.unfocused        #ffccff  #ff99cc  #888888  #ffb3da   #ff99cc
 client.urgent           #ff79c6  #ff3366  #ffffff  #ff3366   #ff3366
 client.placeholder      #ffccff  #ff66b2  #ffffff  #ff66b2   #ff66b2
 client.background       #ffffff
+
 #set gaps
-gaps inner 5
-gaps outer 5
+#gaps inner 5
+#gaps outer 5
+
 #enables autotilings
 exec_always autotiling
 
